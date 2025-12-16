@@ -1,0 +1,5 @@
+id,nom,type,latitude,longitude
+1,CHU Alger,hospital,36.7538,3.0588
+2,Hôpital Blida,hospital,36.4700,2.8300
+3,Polyclinique Tipaza,clinic,36.5892,2.4471
+4,Hôpital Chlef,hospital,36.1653,1.3345

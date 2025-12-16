@@ -1,0 +1,5 @@
+id,zone,population,latitude,longitude
+1,Zone A,12000,36.75,3.05
+2,Zone B,8000,36.48,2.82
+3,Zone C,6000,36.60,2.44
+4,Zone D,4000,36.17,1.33
